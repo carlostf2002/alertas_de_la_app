@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#4CAF50">
+
+    <TextView
+        android:id="@+id/Optimo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estado_ptimo"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp" />
+
+
+    <ImageView
+        android:id="@+id/imagen"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/imagen2"
+        android:layout_marginBottom="30dp"/>
+
+
+    <TextView
+        android:id="@+id/mensaje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/el_sistema_de_ventilaci_n_est_funcionando_de_manera_ptima"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:layout_marginHorizontal="20dp"
+        android:gravity="center"/>
+
+</LinearLayout>

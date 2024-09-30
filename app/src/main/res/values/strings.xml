@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="se_detect_un_mal_funcionamiento_en_los_ventiladores_est_n_funcionando_a_su_20">¡¡Se detectó un mal funcionamiento en los ventiladores. Están funcionando a su 20%!!</string>
+    <string name="alerta">¡alerta!</string>
+    <string name="los_ventiladores_est_n_funcionando_sobre_el_60_de_su_capacidad_est_n_en_buen_funcionamiento">Los ventiladores están funcionando sobre el 60% de su capacidad. Están en buen funcionamiento.</string>
+    <string name="ventiladores_en_buen_estado">¡ventiladores en buen estado!</string>
+    <string name="estado_ptimo">¡Estado Óptimo!</string>
+    <string name="el_sistema_de_ventilaci_n_est_funcionando_de_manera_ptima">El sistema de ventilación está funcionando de manera óptima.</string>
+    <string name="alert_a">¡¡alerta!!</string>
+    <string name="se_detect_una_temperatura_mayor_a_90_se_recomienda_apagar_el_pc_o_revisarlo">¡¡Se detectó una temperatura mayor a 90°. Se recomienda apagar el PC o revisarlo!!.</string>
+</resources>

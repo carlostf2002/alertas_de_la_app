@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#a12623">
+
+
+    <TextView
+        android:id="@+id/Alerta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/alerta"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp" />
+
+
+    <ImageView
+        android:id="@+id/Icono"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/imagen"
+        android:layout_marginBottom="30dp"/>
+
+
+    <TextView
+        android:id="@+id/Mensaje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/se_detect_un_mal_funcionamiento_en_los_ventiladores_est_n_funcionando_a_su_20"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:layout_marginHorizontal="30dp"
+        android:gravity="center"/>
+
+</LinearLayout>
